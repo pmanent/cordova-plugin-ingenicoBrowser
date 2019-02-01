@@ -20,7 +20,7 @@
     "ingenico",
     "payment",
     "inappBrowser"
-  ]
+  ],
   "engines": [
     {
       "name": "cordova",
